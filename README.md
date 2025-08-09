@@ -98,3 +98,18 @@ data-warehouse-project/
 └── requirements.txt                    # Dependencies and requirements for the project
 ```
 ---
+
+## 🌟 About Me
+Hey! I'm Mauro Valerioti — an IT professional, Developer, and Data Analyst obsessed with turning raw data into clear, impactful insights. I craft solutions that don’t just store information, but actually make it work for you. Always learning, always building, always aiming to turn data into real results.
+
+Let's stay in touch! Feel free to connect with me on the following platforms:
+
+```
+soon
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)
+```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maurovalerioti/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MauroValerioti)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maurovalerioti@gmail.com)
+
+
